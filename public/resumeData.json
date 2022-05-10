@@ -1,0 +1,118 @@
+{
+  "main": {
+    "name": "Livjyot Singh",
+    "occupation": "UX/UI Designer",
+    "description": "I bring designs to Life",
+    "image": "profile-pic.jpeg",
+    "bio": "Hi there! I am Livjyot! A coding enthusiast and an undergraduate student at Conestoga. Passionate about creating and managing applications and keen to learn more about UX and UI. ",
+    "contactmessage": "Get in touch with me",
+    "email": "livjyotsingh.cagmail.com",
+    "phone": "+1 6476759659",
+    "address": {
+      "street": "321 Lester Street",
+      "city": "Waterloo",
+      "state": "Ontario",
+      "zip": "N2L 3W6"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "https://drive.google.com/file/d/1ud8jvCr52N2efNbv7ClafJzNl1vnQ7dk/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/livjyotsingh",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ilivjyot/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Livjyot11",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Software and Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Conestoga College - CA",
+        "degree": "Advanced Diploma, IT Innovation and Design",
+        "graduated": "August 2022",
+        "description": "Overall GPA: 3.5"
+      }
+    ],
+    "work": [
+      {
+        "company": "Voluteer Experience",
+        "title": "Non-Profit Organisation in Kitchener-Waterloo",
+        "years": "Jan - April 2021",
+        "description": "I designed a website for a non-profit organisation in Kitchener-Waterloo area of Ontario that comes with a mission to help the homeless people."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Figma",
+        "level": "100%"
+      },
+      {
+        "name": "Adobe XD",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Design for Non-Profit Organisation",
+        "category": "",
+        "image": "non-profit-organisation.png",
+        "url": "https://github.com/Livjyot11/Design-for-Non-Profit-Organisation"
+      },
+      {
+        "title": "Air Taffic Controller Screens",
+        "category": "",
+        "image": "air-traffic-controller.png",
+        "url": "https://github.com/Livjyot11/Air-Traffic-Controller"
+      },
+      {
+        "title": "Website Design for School",
+        "category": "",
+        "image": "website-for-school.png",
+        "url": "https://github.com/Livjyot11/Website-Design-for-School"
+      },
+      {
+        "title": "Data Visualization",
+        "category": "",
+        "image": "dashboard.png",
+        "url": "https://github.com/Livjyot11/Data-Visualization"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Livjyot is absolutely excellent, his in-depth knowledge while approaching design is very creative and innovative. I would definitely recommend",
+        "user": "Randall Kozak (Coordinator)"
+      },
+      {
+        "text": "Learning with Livjyot has been AWESOME, he makes User Interface design so friendly and approachable, you'll finally feel like you know what's going on!",
+        "user": "Mohd Sohail Mir (Team Partner)"
+      }
+    ]
+  }
+}
