@@ -50,11 +50,11 @@
     "skills": [
       {
         "name": "Figma",
-        "level": "100%"
+        "level": "85%"
       },
       {
         "name": "Adobe XD",
-        "level": "85%"
+        "level": "100%"
       },
       {
         "name": "Git",
@@ -62,11 +62,11 @@
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "75%"
       },
       {
         "name": "Web Development",
-        "level": "95%"
+        "level": "65%"
       }
     ]
   },
